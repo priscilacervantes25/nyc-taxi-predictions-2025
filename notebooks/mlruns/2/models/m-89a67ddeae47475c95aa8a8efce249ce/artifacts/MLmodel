@@ -1,0 +1,14 @@
+artifact_path: file:///c:/Users/prisc/apps/nyc-taxi-predictions-2025/notebooks/mlruns/2/models/m-89a67ddeae47475c95aa8a8efce249ce/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-89a67ddeae47475c95aa8a8efce249ce
+model_size_bytes: 99
+model_uuid: m-89a67ddeae47475c95aa8a8efce249ce
+prompts: null
+run_id: ca6ee8fe83654bd8b7fc957f7cc8611c
+utc_time_created: '2025-10-17 02:32:47.864014'
